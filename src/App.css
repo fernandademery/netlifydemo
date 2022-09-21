@@ -25,7 +25,11 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: white;
+  text-decoration: none;
+  background-color: green;
+  padding: 1%;
+  border-radius: 10px;
 }
 
 @keyframes App-logo-spin {
